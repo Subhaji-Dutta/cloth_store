@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cloth_store/static/css/main.1c7af4f2.css",
+    "main.js": "/cloth_store/static/js/main.b6db2126.js",
+    "static/media/model.jpg": "/cloth_store/static/media/model.87d9696dd56642fa57e9.jpg",
+    "index.html": "/cloth_store/index.html",
+    "static/media/shirt-solid.svg": "/cloth_store/static/media/shirt-solid.4de49970a2c25432c43a52fa550be007.svg",
+    "main.1c7af4f2.css.map": "/cloth_store/static/css/main.1c7af4f2.css.map",
+    "main.b6db2126.js.map": "/cloth_store/static/js/main.b6db2126.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c7af4f2.css",
+    "static/js/main.b6db2126.js"
+  ]
+}
